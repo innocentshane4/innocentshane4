@@ -1,4 +1,14 @@
-# 💫 About Me:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:7F00FF&height=220&section=header&text=Data-Mage-Shane&fontSize=50&fontColor=00F7FF&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🔮+Data-Mage-Shane;AI+%7C+Machine+Learning+%7C+Data+Science;Decoding+Patterns+from+Data;Building+Intelligent+Systems;Python+Developer" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif" width="500"/>
+</p>
 I am a third-year student with a strong passion for software development, specializing in Machine Learning, Artificial Intelligence, and Data Analytics. My academic journey and personal projects have allowed me to build a solid foundation in problem-solving, logical thinking, and creating efficient, scalable solutions.<br><br>While my current focus is on strengthening my technical skills and expanding my knowledge in intelligent systems, I am actively working toward developing and showcasing projects that reflect my capabilities in AI-driven applications and data-focused solutions. Although my project portfolio is still growing, this profile marks the beginning of that journey.<br><br>I am particularly interested in how data can be transformed into meaningful insights and how AI can be leveraged to solve real-world problems. As I continue to learn and evolve, I aim to contribute to innovative solutions that make a tangible impact.<br><br>This GitHub profile will gradually serve as a collection of my work, experiments, and progress in the fields of software development, machine learning, and data analytics.<br><br>In addition to my academic background, I hold certifications in Python, C#, and C++, and I have practical experience working with a wide range of programming languages including Java, HTML, CSS, JavaScript, TypeScript, PHP, Kotlin, and XML. On the data side, I have worked with SQL and Firebase for database management and integration. I also have experience using Docker for containerization and environment management, allowing me to build and deploy applications more efficiently.<br><br>Currently, my primary focus is on expanding my expertise in data analytics, machine learning, and mathematically driven fields such as statistics. I am actively learning and applying Python within this space, using it as a core tool for data analysis, modeling, and building intelligent systems. This focus reflects my long-term goal of working with data-centric and AI-driven technologies.<br>
 
 
